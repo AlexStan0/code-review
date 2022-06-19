@@ -1,0 +1,17 @@
+{
+  "name": "forknife-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandru Stan",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^14.4.0",
+    "simple-json-db": "^2.0.0"
+  }
+}
